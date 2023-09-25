@@ -1,6 +1,6 @@
 # movie-store-app
 
-This app was made using .net web api, it was testeg with swagger.
+This app was made using .net web api, it was testet with swagger and some unit tests.
 The database used was a local sql server.
 
 # Whats it about
